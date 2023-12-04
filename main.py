@@ -1,5 +1,6 @@
 import random
 
+#hello there!
 game_run = True
 cardDeck = []
 cardDeck2 = []
