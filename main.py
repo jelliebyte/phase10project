@@ -18,7 +18,8 @@ cardColors = [
 for i in range(1, 9):
   cardDeck.append(random.choice(cardColors))
   cardDeck2.append(random.choice(cardColors))
-
+#another comment for github
+#HEHEHEHEHE
 
 def playCard():
   global choice
